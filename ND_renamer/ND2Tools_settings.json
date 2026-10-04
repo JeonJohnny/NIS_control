@@ -1,0 +1,16 @@
+{
+  "folder": "Z:\\99. Cell data\\05.동아대\\260904_CML034\\PO",
+  "header": "CML034",
+  "words": "",
+  "by_word": false,
+  "by_drug": false,
+  "by_t": false,
+  "channel1_on": true,
+  "channel1_name": "BF",
+  "channel2_on": true,
+  "channel2_name": "FITC",
+  "channel3_on": true,
+  "channel3_name": "PI",
+  "channel4_on": false,
+  "channel4_name": "ANX"
+}
