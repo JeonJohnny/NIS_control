@@ -1,0 +1,9 @@
+# ND Generator 의존 패키지 (동봉 런타임 python\ 안에 설치되어 있음)
+#
+# 패키지를 다시 설치하거나 추가할 때:
+#   python\python.exe -m pip install -r requirements.txt
+#
+# 새 패키지를 추가할 때는 이 파일에 한 줄 적고 위 명령을 실행하면
+# 프로젝트 폴더 안(python\Lib\site-packages)에만 설치된다.
+
+numpy==2.0.2

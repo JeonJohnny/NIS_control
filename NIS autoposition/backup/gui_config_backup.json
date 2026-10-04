@@ -1,0 +1,12 @@
+{
+  "input_file": "multipoints_.xml",
+  "output_file": "generated_multipoints.xml",
+  "check_interval": 0.5,
+  "mesh_rows": 2,
+  "mesh_cols": 54,
+  "num_repetitions": 8,
+  "auto_focus": false,
+  "point_start_idx": "",
+  "point_end_idx": "",
+  "delete_numbers": "26,27,28,29,80,81,82,83"
+}
